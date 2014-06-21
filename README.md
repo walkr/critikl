@@ -13,7 +13,7 @@ with no dependencies.
 
 ### Usage:
 
-1. Edit the `config` in `critikl.py`
+* Edit the `config` in `critikl.py`
 
 ```python
 config = {
@@ -30,14 +30,14 @@ config = {
 ```
 
 
-2. Start the script
+* Start the script
 
 ```bash
 $ python critikl.py
 ```
 
 
-3. (Optional) Use a process manager (e.g. circus)
+* (Optional) Use a process manager (e.g. circus)
 
     A. Install circus
 
