@@ -6,9 +6,9 @@ with no dependencies.
 
 ### Features:
 
-* Python2 and Python3 compatible
+* Python 2 and Python 3 compatible
 * No external deps
-* Pushover notifications.
+* Pushover notifications
 
 
 ### Usage:
