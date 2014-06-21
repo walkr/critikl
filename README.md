@@ -42,7 +42,7 @@ $ python critikl.py
     A. Install circus
 
     ```bash
-    $ pip install circus
+    $ sudo pip install circus
     ```
 
     B. Create the circus config file
