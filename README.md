@@ -17,7 +17,7 @@ with no dependencies.
 
 ```python
 config = {
-    'interval': 60,  # How ofter to perform checks (in seconds)
+    'interval': 60,  # How often to perform checks (in seconds)
     'pushover': {
         'app_token': 'your-pushover-app-token',
         'user_key': 'your-user-key',

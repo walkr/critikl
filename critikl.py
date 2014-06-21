@@ -146,7 +146,7 @@ class Monitor(object):
 # ------------------------------------
 
 config = {
-    'interval': 60,  # How ofter to perform checks (in seconds)
+    'interval': 60,  # How often to perform checks (in seconds)
     'pushover': {
         'app_token': None,
         'user_key': None,
