@@ -164,6 +164,7 @@ config = {
 def main():
     notifier = Pushover(**config['pushover'])
     monitor = Monitor(config['sites'], notifier, interval=config['interval'])
+    notifier.send('critikl monitor started on {}'.format(time.ctime()))
     monitor.start()
 
 if __name__ == '__main__':
